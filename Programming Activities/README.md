@@ -11,4 +11,4 @@ September 9: Basic print out and blinking,
     - full.csv: csv file for full wipe of wet wipe conditions data from moisture sensor
     - half.csv: csv file for half wipe of wet wipe conditions data from moisture sensor
     - wipe.csv: csv file for full wet wipe conditions data from moisture sensor
-- EDA_umbrella.py: final project for FYRE upload 1 of progress as of 9/23/2026
+- EDA_umbrella.py: final project for FYRE final upload 10/06/2026
